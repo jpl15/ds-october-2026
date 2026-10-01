@@ -172,7 +172,7 @@ git restore file.py         # discard unstaged edits to a file (can't be undone)
 ```
 
 ### Pull and fetch
-
+my  blacshoes
 ```bash
 git pull                    # fetch from GitHub and merge into your current branch
 git fetch                   # download new commits without changing your files
