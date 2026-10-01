@@ -15,7 +15,7 @@ An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboa
 | Wednesday - Friday | Teaching and labs |
 
 ---
-
+call me 
 # Start here: the essentials
 
 These are the commands you'll use every day. Everything under **Reference** further down is extra help for when you need it.
